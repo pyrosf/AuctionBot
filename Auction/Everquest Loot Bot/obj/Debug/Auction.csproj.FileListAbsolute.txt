@@ -1,0 +1,12 @@
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\bin\Debug\x86\v2_AutoHotkey.dll
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.exe.config
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.exe
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.pdb
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\bin\Debug\AutoHotkey.Interop.dll
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\bin\Debug\AutoHotkey.Interop.pdb
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\obj\Debug\Auction.csproj.AssemblyReference.cache
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\obj\Debug\Auction.csproj.SuggestedBindingRedirects.cache
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\obj\Debug\Auction.csproj.CoreCompileInputs.cache
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\obj\Debug\Auction.csproj.CopyComplete
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.exe
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code - Copy\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.pdb

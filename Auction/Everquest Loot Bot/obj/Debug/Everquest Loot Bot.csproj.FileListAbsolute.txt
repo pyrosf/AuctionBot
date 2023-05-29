@@ -1,0 +1,21 @@
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.exe.config
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.exe
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.pdb
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.csprojResolveAssemblyReference.cache
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.exe
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.pdb
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\x86\v2_AutoHotkey.dll
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\AutoHotkey.Interop.dll
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\AutoHotkey.Interop.pdb
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\bin\Debug\x86\v2_AutoHotkey.dll
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.exe.config
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.exe
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.pdb
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\bin\Debug\AutoHotkey.Interop.dll
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\bin\Debug\AutoHotkey.Interop.pdb
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.csproj.AssemblyReference.cache
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.csproj.SuggestedBindingRedirects.cache
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.csproj.CoreCompileInputs.cache
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.csproj.CopyComplete
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.exe
+C:\Users\7J4575897\Documents\Visual Studio 2022\Projects\Capture Code\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.pdb
